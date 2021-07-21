@@ -19,3 +19,5 @@ Python 3.7
 
 Construido con 🛠️
 Python 3.7
+
+⌨️ con :yellow_heart: por [María Gimena Binaghi](https://github.com/gibinaghi):star2:
